@@ -1,0 +1,31 @@
+=================================
+== Functions Document ===
+=================================
+
+
+
+getAllFrom($field, $table, $where=NULL, $and = NULL, $orderField, $ordering = 'DESC')
+
+
+- $field          => This Input Special fields in my website from DB                         (Can't Empty)
+- $table          => This Input Special Table in my website from DB                          (Can't Empty)
+- $where          => This Input Special fields, I needed It To Put Value in DB               (Can Be Empty)
+- $orderField     => This Input Special Ordering fields in my website from DB                (Can Be Empty)
+- $ordering       => This Input Special Ordering fields (DESC OR ASC) in my website from DB  (Can Be Empty)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
